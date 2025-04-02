@@ -2,3 +2,5 @@ flask
 PyMuPDF
 openai
 gunicorn
+requests
+python-docx
